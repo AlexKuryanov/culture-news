@@ -1,6 +1,6 @@
 # Создание семантической разметки по макету
 
-[HTML-academy](https://htmlacademy.ru/skills/semantic-markup)
+**Навык от [HTML-academy](https://htmlacademy.ru/skills/semantic-markup)**
 
 ## Проект «Новости культуры»
 
