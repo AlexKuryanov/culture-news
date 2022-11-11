@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 
 html {
   font-size: 10px;
@@ -8,7 +8,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .container-small {
@@ -249,7 +249,7 @@ article img {
 }
 
 .promo-btn::after {
-  content: "￫";
+  content: '￫';
   display: block;
   color: #ffffff;
   font-size: 3rem;
@@ -308,6 +308,7 @@ article img {
   width: 50px;
   height: 50px;
   transition: all 0.3s linear;
+  cursor: pointer;
 }
 
 .social-list-item:hover {
